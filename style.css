@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to bottom, #aeb6bf, #eee8d0);
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+section{
+    width:80vw;
+    margin:5% auto;
+    padding-top:40;
+    text-align: center;
+    line-height: 25px;
+}
+h1{
+    margin-bottom: 20px;
+}
+
